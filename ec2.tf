@@ -9,4 +9,4 @@ resource "aws_instance" "lms-web-server" {
   tags = {
     Name = "lms web server"
   }
-}
+} 
