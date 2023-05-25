@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,terraform
 
 # Ignore Credentials
-provider.tf
+
 
 ### Terraform ###
 # Local .terraform directories
